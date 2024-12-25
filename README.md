@@ -11,6 +11,8 @@ Sowohl der Funktionsumfang von xStream als auch das Angebot an Webseiten-Inhalte
 
 Diese werden auch als Site-Plugins bezeichnet, welche auf die eigentlichen Quellen verweisen die für das bereitgestellte Angebot verantworlich sind! Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xStream oder den Entwicklern! xStream läuft ausschließlich unter Python 3 und funktioniert somit ab Kodi Version 19 und höher!
 
+Hier ist die blacklist von bestimmten builds/skins und addons bereits entfernt also könnt ihr diese version gerne in eurem build benutzen.
+
 ***
 
 Habt Ihr Fragen rund um xStream findet Ihr sicher eure Antworten in unserer Wiki bzw. FAQ.
