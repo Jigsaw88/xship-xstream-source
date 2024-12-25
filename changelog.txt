@@ -1,9 +1,0 @@
-[B]Version: 4.1.8[/B]
-
-HO HO HO! Schon mal Frohe Weihnachten und viel Spaß beim Serien schauen ;)
-
-22.12.2024
-
-- [hoster] Das Abspielproblem mit dem Hoster VOE (unter anderem Serienstream) wurde behoben
-
-
