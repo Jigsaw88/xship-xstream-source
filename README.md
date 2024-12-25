@@ -1,5 +1,6 @@
 
-## Willkommen bei xStream für Kodi!!
+## Willkommen bei xStream für Kodi - Jetzt Teil Open Source!
+# Weil wir auf einem höhenflug sind und euch blacklisten sind die hauptfiles jetzt open source :D
 
 
 ![xStream logo](https://raw.githubusercontent.com/streamxstream/xStreamRepoWeb/gh-pages/config/plugin.png)
